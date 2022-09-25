@@ -511,10 +511,11 @@ a.button:hover {
     background-color: #edede9; 
     }
 
-    .menu{
+    #hamburguesa ul li a{
         text-decoration: none;
         font-family: 'Spectral', serif;
         font-weight: bold;
+        color: #333;
     }
       
     ul{
